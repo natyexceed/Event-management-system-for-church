@@ -1,2 +1,2 @@
-# Even-managementy-system-for-chruch
+# Even-managementy-system-for-church
 a repo for developing an event management system for churches and related activities
