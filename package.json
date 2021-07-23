@@ -1,0 +1,15 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nati Biruk",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "^82.0.0"
+  }
+}
